@@ -1,0 +1,10 @@
+{
+  "name": "Liminal Icons",
+  "description": "用于QX的图标库",
+  "icons": [
+    {
+      "name": "U-NEXT",
+      "img": "https://raw.githubusercontent.com/whxhuiq-creator/01/main/U-NEXT.png"
+    }
+  ]
+}
