@@ -2,7 +2,7 @@
 
 补充一些不常见的 Quantumult X 策略组图标。
 
-仓库中的策略组图标统一为 Quantumult X 支持的 108×108 PNG。
+仓库中的策略组图标统一为当前 Quantumult X 策略组实测可用的 144×144 PNG。
 
 ## Quantumult X 使用说明
 
